@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Searches on Earth Science in R</title>
-    <link>/julianscott/search/</link>
+    <link>/Earth_Science_BlogR/search/</link>
     <description>Recent content in Searches on Earth Science in R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/julianscott/search/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Earth_Science_BlogR/search/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/julianscott/search/placeholder/</link>
+      <link>/Earth_Science_BlogR/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/search/placeholder/</guid>
+      <guid>/Earth_Science_BlogR/search/placeholder/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Note on Earth Science in R</title>
-    <link>/julianscott/categories/note/</link>
+    <link>/Earth_Science_BlogR/categories/note/</link>
     <description>Recent content in Note on Earth Science in R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 May 2018 11:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/julianscott/categories/note/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Earth_Science_BlogR/categories/note/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>使用Algolia为Gitpage博客提供站内搜索</title>
-      <link>/julianscott/2018/05/21/algolia-integration-with-jekyll/</link>
+      <link>/Earth_Science_BlogR/2018/05/21/algolia-integration-with-jekyll/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>/julianscott/2018/05/21/algolia-integration-with-jekyll/</guid>
+      <guid>/Earth_Science_BlogR/2018/05/21/algolia-integration-with-jekyll/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;This series of articles are my notes of &amp;ldquo;Bitcoin and Cryptocurrency Technologies&amp;rdquo; online course.&lt;/p&gt;
 &lt;/blockquote&gt;

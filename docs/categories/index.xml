@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Earth Science in R</title>
-    <link>/julianscott/categories/</link>
+    <link>/Earth_Science_BlogR/categories/</link>
     <description>Recent content in Categories on Earth Science in R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/julianscott/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Earth_Science_BlogR/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tech</title>
-      <link>/julianscott/categories/tech/</link>
+      <link>/Earth_Science_BlogR/categories/tech/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/categories/tech/</guid>
+      <guid>/Earth_Science_BlogR/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>/julianscott/categories/tips/</link>
+      <link>/Earth_Science_BlogR/categories/tips/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/categories/tips/</guid>
+      <guid>/Earth_Science_BlogR/categories/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Note</title>
-      <link>/julianscott/categories/note/</link>
+      <link>/Earth_Science_BlogR/categories/note/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>/julianscott/categories/note/</guid>
+      <guid>/Earth_Science_BlogR/categories/note/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life</title>
-      <link>/julianscott/categories/life/</link>
+      <link>/Earth_Science_BlogR/categories/life/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/categories/life/</guid>
+      <guid>/Earth_Science_BlogR/categories/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/julianscott/categories/r/</link>
+      <link>/Earth_Science_BlogR/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/julianscott/categories/r/</guid>
+      <guid>/Earth_Science_BlogR/categories/r/</guid>
       <description></description>
     </item>
     

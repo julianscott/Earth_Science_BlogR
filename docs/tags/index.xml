@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Earth Science in R</title>
-    <link>/julianscott/tags/</link>
+    <link>/Earth_Science_BlogR/tags/</link>
     <description>Recent content in Tags on Earth Science in R</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/julianscott/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/Earth_Science_BlogR/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Istio</title>
-      <link>/julianscott/tags/istio/</link>
+      <link>/Earth_Science_BlogR/tags/istio/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/istio/</guid>
+      <guid>/Earth_Science_BlogR/tags/istio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>/julianscott/tags/ubuntu/</link>
+      <link>/Earth_Science_BlogR/tags/ubuntu/</link>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/ubuntu/</guid>
+      <guid>/Earth_Science_BlogR/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microservice</title>
-      <link>/julianscott/tags/microservice/</link>
+      <link>/Earth_Science_BlogR/tags/microservice/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/microservice/</guid>
+      <guid>/Earth_Science_BlogR/tags/microservice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security</title>
-      <link>/julianscott/tags/security/</link>
+      <link>/Earth_Science_BlogR/tags/security/</link>
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/security/</guid>
+      <guid>/Earth_Science_BlogR/tags/security/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>/julianscott/tags/kubernetes/</link>
+      <link>/Earth_Science_BlogR/tags/kubernetes/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/kubernetes/</guid>
+      <guid>/Earth_Science_BlogR/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bitcoin</title>
-      <link>/julianscott/tags/bitcoin/</link>
+      <link>/Earth_Science_BlogR/tags/bitcoin/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/bitcoin/</guid>
+      <guid>/Earth_Science_BlogR/tags/bitcoin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll:q</title>
-      <link>/julianscott/tags/jekyllq/</link>
+      <link>/Earth_Science_BlogR/tags/jekyllq/</link>
       <pubDate>Mon, 21 May 2018 11:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/jekyllq/</guid>
+      <guid>/Earth_Science_BlogR/tags/jekyllq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>/julianscott/tags/travel/</link>
+      <link>/Earth_Science_BlogR/tags/travel/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/travel/</guid>
+      <guid>/Earth_Science_BlogR/tags/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Helm</title>
-      <link>/julianscott/tags/helm/</link>
+      <link>/Earth_Science_BlogR/tags/helm/</link>
       <pubDate>Mon, 16 Apr 2018 15:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/helm/</guid>
+      <guid>/Earth_Science_BlogR/tags/helm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API Gateway</title>
-      <link>/julianscott/tags/api-gateway/</link>
+      <link>/Earth_Science_BlogR/tags/api-gateway/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/api-gateway/</guid>
+      <guid>/Earth_Science_BlogR/tags/api-gateway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service Mesh</title>
-      <link>/julianscott/tags/service-mesh/</link>
+      <link>/Earth_Science_BlogR/tags/service-mesh/</link>
       <pubDate>Wed, 11 Apr 2018 09:32:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/service-mesh/</guid>
+      <guid>/Earth_Science_BlogR/tags/service-mesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>/julianscott/tags/docker/</link>
+      <link>/Earth_Science_BlogR/tags/docker/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/docker/</guid>
+      <guid>/Earth_Science_BlogR/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>/julianscott/tags/tips/</link>
+      <link>/Earth_Science_BlogR/tags/tips/</link>
       <pubDate>Tue, 13 Mar 2018 18:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/tips/</guid>
+      <guid>/Earth_Science_BlogR/tags/tips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vim</title>
-      <link>/julianscott/tags/vim/</link>
+      <link>/Earth_Science_BlogR/tags/vim/</link>
       <pubDate>Fri, 09 Feb 2018 11:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/vim/</guid>
+      <guid>/Earth_Science_BlogR/tags/vim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nginmesh</title>
-      <link>/julianscott/tags/nginmesh/</link>
+      <link>/Earth_Science_BlogR/tags/nginmesh/</link>
       <pubDate>Tue, 02 Jan 2018 12:00:00 +0000</pubDate>
       
-      <guid>/julianscott/tags/nginmesh/</guid>
+      <guid>/Earth_Science_BlogR/tags/nginmesh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/julianscott/tags/plot/</link>
+      <link>/Earth_Science_BlogR/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/julianscott/tags/plot/</guid>
+      <guid>/Earth_Science_BlogR/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/julianscott/tags/r-markdown/</link>
+      <link>/Earth_Science_BlogR/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/julianscott/tags/r-markdown/</guid>
+      <guid>/Earth_Science_BlogR/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/julianscott/tags/regression/</link>
+      <link>/Earth_Science_BlogR/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/julianscott/tags/regression/</guid>
+      <guid>/Earth_Science_BlogR/tags/regression/</guid>
       <description></description>
     </item>
     

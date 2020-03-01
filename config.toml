@@ -1,4 +1,4 @@
-baseurl = "https://github.com/julianscott/"
+baseurl = "https://julianscott.github.io/Earth_Science_BlogR"
 publishDir = "docs"
 draft = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -16,10 +16,6 @@ hasCJKLanguage = true
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
-
-library(ggplot2)
-ggplot(diamonds, aes(x=carat, y=price, color=clarity)) + geom_point()
-
 
 [params]
   header_image = "img/sensor_pic.jpg"
